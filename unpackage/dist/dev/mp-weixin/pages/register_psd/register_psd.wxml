@@ -1,0 +1,1 @@
+<view class="content data-v-6898702b" bind:__l="__l"><view class="box data-v-6898702b"><input class="password data-v-6898702b" type="text" placeholder="请输入密码"/></view><navigator class="register data-v-6898702b" url="../signin/signin"><button class="rightnow data-v-6898702b">立即注册</button></navigator></view>
